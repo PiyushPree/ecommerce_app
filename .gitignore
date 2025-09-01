@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Node
+Front end/node_modules/
+
+# Build - keep frontend build, ignore backend target
+back end/demo/target/
+
+# IDE/project files
+*.iml
+*.classpath
+*.project
+.idea/
+.vscode/
+
+# Logs
+*.log
