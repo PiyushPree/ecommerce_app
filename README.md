@@ -1,6 +1,6 @@
 🛒 Shopper24 – Full-Stack E-Commerce Application
 
-🚀 Live Demo: Shopper24
+🚀 Live Demo: https://shopper24.netlify.app/
 
 Shopper24 is a full-stack e-commerce web application built with React (frontend), Spring Boot (backend), and MySQL (database).
 It allows users to explore products, add them to cart, and manage authentication with JWT security.
